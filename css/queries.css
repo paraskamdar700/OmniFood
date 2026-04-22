@@ -5,7 +5,7 @@ Instead, 1rem = 1em = 16px */
 /* Below 1344px (Smaller desktops)
 /**************************/
 
-@media (max-width: 84em) {
+@media (min-width: 84em) {
   .hero {
     max-width: 120rem;
   }
@@ -23,7 +23,7 @@ Instead, 1rem = 1em = 16px */
 /* Below 1200px (Landscape tablets)
 /**************************/
 
-@media (max-width: 75em) {
+@media (min-width: 75em) {
   html {
     /* 9px / 16px = 56.25 */
     font-size: 56.25%;
@@ -63,7 +63,7 @@ Instead, 1rem = 1em = 16px */
 /* Below 944px (Tablets)
 /**************************/
 
-@media (max-width: 59em) {
+@media (min-width: 59em) {
   /* 8px / 16px = 0.5 = 50% */
   html {
     font-size: 50%;
@@ -186,7 +186,7 @@ Instead, 1rem = 1em = 16px */
 /* Below 704px (Small tablets)
 /**************************/
 
-@media (max-width: 44em) {
+@media (min-width: 44em) {
   .heading-secondary {
     margin-bottom: 4.8rem;
   }
@@ -225,7 +225,7 @@ Instead, 1rem = 1em = 16px */
 /* Below 544px (Phones)
 /**************************/
 
-@media (max-width: 34em) {
+@media (min-width: 34em) {
   .grid {
     row-gap: 4.8rem;
   }
