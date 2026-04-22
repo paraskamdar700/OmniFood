@@ -1,0 +1,38 @@
+[
+  {
+    "id": "server-response-time",
+    "title": "Initial server response time was short",
+    "savings": 0,
+    "bytes": null
+  },
+  {
+    "id": "redirects",
+    "title": "Avoid multiple page redirects",
+    "savings": 0,
+    "bytes": null
+  },
+  {
+    "id": "unminified-css",
+    "title": "Minify CSS",
+    "savings": 0,
+    "bytes": 2591
+  },
+  {
+    "id": "unminified-javascript",
+    "title": "Minify JavaScript",
+    "savings": 0,
+    "bytes": 0
+  },
+  {
+    "id": "unused-css-rules",
+    "title": "Reduce unused CSS",
+    "savings": 0,
+    "bytes": 0
+  },
+  {
+    "id": "unused-javascript",
+    "title": "Reduce unused JavaScript",
+    "savings": 0,
+    "bytes": 0
+  }
+]

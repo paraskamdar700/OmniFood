@@ -1,0 +1,87 @@
+[
+  {
+    "id": "first-contentful-paint",
+    "title": "First Contentful Paint",
+    "score": 0.61
+  },
+  {
+    "id": "largest-contentful-paint",
+    "title": "Largest Contentful Paint",
+    "score": 0.81
+  },
+  {
+    "id": "speed-index",
+    "title": "Speed Index",
+    "score": 0.91
+  },
+  {
+    "id": "total-blocking-time",
+    "title": "Total Blocking Time",
+    "score": 0.93
+  },
+  {
+    "id": "max-potential-fid",
+    "title": "Max Potential First Input Delay",
+    "score": 0.03
+  },
+  {
+    "id": "interactive",
+    "title": "Time to Interactive",
+    "score": 0.96
+  },
+  {
+    "id": "mainthread-work-breakdown",
+    "title": "Minimize main-thread work",
+    "score": 0
+  },
+  {
+    "id": "unsized-images",
+    "title": "Image elements do not have explicit `width` and `height`",
+    "score": 0.5
+  },
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "score": 0
+  },
+  {
+    "id": "total-byte-weight",
+    "title": "Avoid enormous network payloads",
+    "score": 0.5
+  },
+  {
+    "id": "unminified-css",
+    "title": "Minify CSS",
+    "score": 0.5
+  },
+  {
+    "id": "cache-insight",
+    "title": "Use efficient cache lifetimes",
+    "score": 0.5
+  },
+  {
+    "id": "document-latency-insight",
+    "title": "Document request latency",
+    "score": 0.5
+  },
+  {
+    "id": "image-delivery-insight",
+    "title": "Improve image delivery",
+    "score": 0.5
+  },
+  {
+    "id": "lcp-discovery-insight",
+    "title": "LCP request discovery",
+    "score": 0
+  },
+  {
+    "id": "network-dependency-tree-insight",
+    "title": "Network dependency tree",
+    "score": 0
+  },
+  {
+    "id": "render-blocking-insight",
+    "title": "Render blocking requests",
+    "score": 0.5
+  }
+]

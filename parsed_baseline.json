@@ -1,0 +1,53 @@
+{
+  "score": 0.88,
+  "issues": [
+    {
+      "id": "first-contentful-paint",
+      "title": "First Contentful Paint",
+      "score": 0.61,
+      "displayValue": "2.7 s"
+    },
+    {
+      "id": "largest-contentful-paint",
+      "title": "Largest Contentful Paint",
+      "score": 0.81,
+      "displayValue": "2.9 s"
+    },
+    {
+      "id": "speed-index",
+      "title": "Speed Index",
+      "score": 0.91,
+      "displayValue": "3.3 s"
+    },
+    {
+      "id": "total-blocking-time",
+      "title": "Total Blocking Time",
+      "score": 0.93,
+      "displayValue": "160 ms"
+    },
+    {
+      "id": "max-potential-fid",
+      "title": "Max Potential First Input Delay",
+      "score": 0.03,
+      "displayValue": "650 ms"
+    },
+    {
+      "id": "interactive",
+      "title": "Time to Interactive",
+      "score": 0.96,
+      "displayValue": "3.0 s"
+    },
+    {
+      "id": "lcp-discovery-insight",
+      "title": "LCP request discovery",
+      "score": 0,
+      "displayValue": null
+    },
+    {
+      "id": "network-dependency-tree-insight",
+      "title": "Network dependency tree",
+      "score": 0,
+      "displayValue": null
+    }
+  ]
+}
